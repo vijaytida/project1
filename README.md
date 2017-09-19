@@ -1,4 +1,6 @@
 
 # Guessing Game
-date
-wc -l guessinggame.sh
+
+Tue, Sep 19, 2017  3:03:11 PM
+
+26 guessinggame.sh
